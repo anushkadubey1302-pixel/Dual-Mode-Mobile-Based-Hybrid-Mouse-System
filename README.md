@@ -56,7 +56,8 @@ To develop a mobile-based hybrid mouse system that enables users to control thei
 ```text
 Dual-Mode-Mobile-Based-Hybrid-Mouse-System/
 │
-├── templates ├──index.html
+├── templates
+           ├──index.html
 ├── hybrid_mouse.py
 ├── bluetooth_mouse.py
 ├── test_mouse.py
