@@ -57,10 +57,11 @@ To develop a mobile-based hybrid mouse system that enables users to control thei
 Dual-Mode-Mobile-Based-Hybrid-Mouse-System/
 │
 ├── templates
-           ├──index.html
-├── hybrid_mouse.py
-├── bluetooth_mouse.py
-├── test_mouse.py
+│   └── index.html
+├── scripts/           
+│   ├── hybrid_mouse.py
+│   └── bluetooth_mouse.py
+│   └── bluetooth_mouse.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
